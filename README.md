@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hsuhas154
+- 👋 Hi, I’m Suhas
 - 👀 I’m interested in Python, Data Science, Machine Learning and Embedded Systems.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
